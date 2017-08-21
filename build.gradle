@@ -1,0 +1,23 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group 'com.cxandy'
+version '1.1'
+description = 'Action-Scripts on blocks,enjoy it!'
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    maven {
+        name = 'sponge'
+        url = 'https://repo.spongepowered.org/maven'
+    }
+}
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:6.0.0'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

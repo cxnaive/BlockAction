@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "blockaction",
+        "name": "Block Action",
+        "version": "1.1",
+        "description": "A Block Action-Script Plugin",
+        "authorList": [
+            "cxAndy"
+        ],
+        "dependencies": [
+            "spongeapi@6.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@6.0.0"
+        ]
+    }
+]

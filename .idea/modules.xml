@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlockAction.iml" filepath="$PROJECT_DIR$/.idea/modules/BlockAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlockAction_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BlockAction_main.iml" group="BlockAction" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlockAction_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BlockAction_test.iml" group="BlockAction" />
+    </modules>
+  </component>
+</project>
